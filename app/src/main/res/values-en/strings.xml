@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="nama_pelanggan">Customer\'s Name</string>
+    <string name="kode_barang">Item Code</string>
+    <string name="jumlah_barang">the Amount of Goods</string>
+    <string name="tipe_member">Membership Type</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="biasa">Normal</string>
+    <string name="proses">PROCESS</string>
+    <string name="welcome">Welcome</string>
+    <string name="membership">Membership</string>
+    <string name="transaksi">today\'s transaction</string>
+    <string name="nama_barang">Name of goods</string>
+    <string name="harga_barang">Price of goods</string>
+    <string name="total_harga">Total price</string>
+    <string name="diskon_harga">price discount</string>
+    <string name="diskon_member">member discount</string>
+    <string name="jumlah_bayar">payment amount</string>
+    <string name="terimakasih">Thank you for shopping here</string>
+    <string name="bagikan">Share</string>
+</resources>

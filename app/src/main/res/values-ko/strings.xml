@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="nama_pelanggan">고객의 이름</string>
+    <string name="kode_barang">아이템 코드</string>
+    <string name="jumlah_barang">상품의 양</string>
+    <string name="tipe_member">회원 유형</string>
+    <string name="gold">금</string>
+    <string name="silver">은</string>
+    <string name="biasa">정상</string>
+    <string name="proses">프로세스</string>
+    <string name="welcome">환영</string>
+    <string name="membership">회원</string>
+    <string name="transaksi">오늘의 거래</string>
+    <string name="nama_barang">상품명</string>
+    <string name="harga_barang">상품 가격</string>
+    <string name="total_harga">총 가격</string>
+    <string name="diskon_harga">가격 할인</string>
+    <string name="diskon_member">회원할인</string>
+    <string name="jumlah_bayar">결제 금액</string>
+    <string name="terimakasih">여기서 쇼핑해주셔서 감사합니다</string>
+    <string name="bagikan">공유하다</string>
+</resources>

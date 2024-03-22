@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="nama_pelanggan">اسم العميل</string>
+    <string name="kode_barang">رمز الصنف</string>
+    <string name="jumlah_barang">كمية البضائع</string>
+    <string name="tipe_member">نوع العضوية</string>
+    <string name="gold">ذهب</string>
+    <string name="silver">فضة</string>
+    <string name="biasa">طبيعي</string>
+    <string name="proses">عملية</string>
+    <string name="welcome">مرحباً</string>
+    <string name="membership">عضوية</string>
+    <string name="transaksi">صفقة اليوم</string>
+    <string name="nama_barang">أسماء الجيدون</string>
+    <string name="harga_barang">سعر البضائع</string>
+    <string name="total_harga">السعر الكلي</string>
+    <string name="diskon_harga">سعر الخصم</string>
+    <string name="diskon_member">خصم الأعضاء</string>
+    <string name="jumlah_bayar">مبلغ الدفع</string>
+    <string name="terimakasih">شكرا للتسوق هنا</string>
+    <string name="bagikan">يشارك</string>
+</resources>
